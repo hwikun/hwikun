@@ -5,20 +5,9 @@
 * I'm living in Seoul, South Korea🇰🇷
 * I can speak Japanese, too🇯🇵
 
-<!--
-**hwikun/hwikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* ⚡ Fun fact: I have a certificate of air conditioning refrigerator technician 😂.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## 📚 My tech stack 
 
@@ -54,6 +43,14 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning ...
 
 ![iOS](https://img.shields.io/badge/-swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
+<div align="center">
+  
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=hwikun&layout=compact&theme=buefy)
+  <br />
+[![hwikun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwikun&show_icons=true&theme=buefy)](https://github.com/hwikun/github-readme-stats)
+  
+</div>
 
 ## 📫 How to reach me?
 
