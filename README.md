@@ -5,7 +5,7 @@
 * I'm living in Seoul, South Korea🇰🇷
 * proficient in Korean, Japanese🇯🇵
 
-* ⚡ Fun fact: I have a certificate of air conditioning refrigerator technician 😂.
+* ⚡ Fun fact: I have an Air-Conditioning and Refrigerating Machinery(ACRM) certificate  😂.
 
 
 
