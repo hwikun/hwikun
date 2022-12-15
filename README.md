@@ -3,7 +3,7 @@
 * Web Full Stack Developer
 * I'm purpose to be an iOS developer, too.
 * I'm living in Seoul, South Korea🇰🇷
-* I can speak Japanese, too🇯🇵
+* proficient in Korean, Japanese🇯🇵
 
 * ⚡ Fun fact: I have a certificate of air conditioning refrigerator technician 😂.
 
