@@ -27,10 +27,11 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?style=for-the-badge&logo=graphql&logoColor=ffffff)
 
+
 ### 🪣 DataBase
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-12339B?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 
 
 ### 🛠️ Development Environment
@@ -43,6 +44,7 @@
 ## 🌱 I’m currently learning ...
 
 ![iOS](https://img.shields.io/badge/-swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-1841A1?style=for-the-badge&logo=swift&logoColor=ffffff)
 
 <div align="center">
   
