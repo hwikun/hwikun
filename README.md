@@ -1,5 +1,7 @@
 ### Hi! I'm Hwi Sun Na 👋
 
+https://www.notion.so/347840e510c04cd0a8cbcd0faaae7e9b
+
 * Web Full Stack Developer
 * I'm purpose to be an iOS developer, too.
 * I'm living in Seoul, South Korea🇰🇷
