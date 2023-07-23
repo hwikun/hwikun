@@ -27,8 +27,8 @@ https://www.notion.so/347840e510c04cd0a8cbcd0faaae7e9b
 
 ### 🏢 Libraries/Frameworks
 
-![React](https://img.shields.io/badge/-React.js-222222?style=for-the-badge&logo=react)
-![Next](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
+![Next](https://img.shields.io/badge/-next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
 ![ExpressJS](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff)
 ![NestJS](https://img.shields.io/badge/-Nestjs-e0234e?style=for-the-badge&logo=nestjs&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
