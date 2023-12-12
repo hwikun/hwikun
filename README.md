@@ -67,5 +67,5 @@ https://www.notion.so/347840e510c04cd0a8cbcd0faaae7e9b
 
 <p align="center">
 <a href="mailto:leah8608@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:leah8608@gmail.com"/></a>
-<a href="https://www.instagram.com/hwikun_0201/"><img src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/hwikun_0201"/></a>
+<a href="https://www.instagram.com/quokka_dev/"><img src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/hwikun_0201"/></a>
 </p>
